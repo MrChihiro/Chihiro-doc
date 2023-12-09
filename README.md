@@ -18,7 +18,3 @@
 微信备注:doc
 <br>
 <img src="./static/image/wechat.jpg" width="300px" height="300px"/>
-
-## 推广链接
-<a href="https://curl.qcloud.com/u9SqGQSo"><img src="https://upload-dianshi-1255598498.file.myqcloud.com/upload/nodir/345X200-9ae456f58874df499adf7c331c02cb0fed12b81d.jpg"></a>
-<br>
