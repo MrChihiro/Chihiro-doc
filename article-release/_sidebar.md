@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 * **简介**
-  * [项目简介](/plus-ui/home.md)
+  * [项目简介](/article-release/home.md)
 
 * **202311万物收藏**
   * [Docker-compose运行MySQL连接不上](/article-release/202311万物收藏/Docker-compose运行MySQL连接不上.md)
